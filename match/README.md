@@ -1,4 +1,4 @@
-##Datos
+#Datos
 -Programa realizado en un proyecto de RUST en el editor VisualStudio Code
 -Nombre: Isai Adriel Dominguez Garcia
 -Matricula: 170088
