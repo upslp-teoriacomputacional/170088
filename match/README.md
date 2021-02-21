@@ -1,13 +1,15 @@
 #Datos
--Programa realizado en un proyecto de RUST en el editor VisualStudio Code
--Nombre: Isai Adriel Dominguez Garcia
--Matricula: 170088
--Universidad politecnica de San luis Potosi
--profesor: Juan Carlos Gonzales Ibarra
--Descripcion: Programa para realizar grafos
+
+- Programa realizado en un proyecto de RUST en el editor VisualStudio Code
+- Nombre: Isai Adriel Dominguez Garcia
+- Matricula: 170088
+- Universidad politecnica de San luis Potosi
+- profesor: Juan Carlos Gonzales Ibarra
+- Descripcion: Programa para realizar grafos
 
 ##¿Que se hizo para llegar a la solucion?
--Se uso el crate regex el cual es la version de regular expression para rust
+
+- Se uso el crate regex el cual es la version de regular expression para rust
 
 ##Codigo
 -/*
