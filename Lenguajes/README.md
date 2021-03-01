@@ -1,4 +1,4 @@
-#Programa realizado en un proyecto de RUST en el editor VisualStudio Code
+# Programa realizado en un proyecto de RUST en el editor VisualStudio Code
 
 
 Nombre: Isai Adriel Dominguez Garcia
@@ -12,12 +12,15 @@ profesor: Juan Carlos Gonzales Ibarra
 Descripcion: Programa para la manipulacion de cadenas
 
 
-#¿Que se hizo para llegar a la solucion?
+# ¿Que se hizo para llegar a la solucion?
+
 
 Se investigo el uso que Rust le da a las String y sus comandos
 
-Codigo
-´´´
+
+# Codigo
+
+```
 /*
 Practica 4
 Programa para la manipulacion de cadenas en el lenguaje RUST
@@ -102,4 +105,4 @@ fn main() {
     println!("{}", concat);  
 
 }
-´´´
+```
